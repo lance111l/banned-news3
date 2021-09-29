@@ -1,3 +1,4 @@
+#### [专栏 | 中国透视：中共强化对民营企业的管控和攫取](../pages/zhongguotoushi/panel-09232020184951.md)
 #### [专栏 | 中国透视：从审判香港47位民主人士看中共近期的盘算及走向](../pages/zhongguotoushi/review-03042021145802.md)
 #### [专栏 | 中国透视：从湖广铁路债券案看美中关系](../pages/zhongguotoushi/panel-09122019160729.md)
 #### [专栏 | 中国透视：赵紫阳辞世16周年：赵的精神遗产与中共出路](../pages/zhongguotoushi/panel-01202021150011.md)
