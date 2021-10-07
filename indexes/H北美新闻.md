@@ -1,9 +1,26 @@
 #### [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-
-### 已转移至新页面 [北美新闻](H北美新闻.md?t=10080452) 
-
+#### [民主黨或考慮用縮減項目年限方式削減“和解法案” ](../pages/soh6/552777.md?t=10080501) 
+#### [兩黨同意推遲債務上限至12月 並提高4800億美元](../pages/soh6/552771.md?t=10080501) 
+#### [歷史學家: 開放邊界和全球主義正在使美國崩潰](../pages/soh6/552768.md?t=10080501) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
+#### [西雅圖警力"危機" 數百尚未出示疫苗證明的警員或失業](../pages/soh6/552765.md?t=10080501) 
+#### [蓋洛普民調: 美國公眾對媒體信任度已近歷史最低點](../pages/soh6/552759.md?t=10080501) 
+#### [拜登政府重新恢復運送阿富汗難民飛往美國安置](../pages/soh6/552753.md?t=10080501) 
+#### [美國汽油價格已創下七年來最高價位](../pages/soh6/552735.md?t=10080501) 
+#### [隱瞞與中共女間諜關係 美國防承包商受到刑事指控](../pages/soh6/552708.md?t=10080501) 
+#### [神韻三城九場演出　觀眾贊帶來希望](../pages/soh6/552666.md?t=10080501) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [曾寫馬克斯論文 拜登提名的貨幣監理官遭質疑](../pages/soh6/552561.md?t=10080501) 
+#### [拜登：除了遵守「台灣協議」 習近平不應該做其他事](../pages/soh6/552591.md?t=10080501) 
+#### [促中共停止對台挑釁行為 布林肯：美反對單方面行為](../pages/soh6/552474.md?t=10080501) 
+#### [防政府違約 麥康奈爾提協議 民主黨接受](../pages/soh6/552411.md?t=10080501) 
+#### [美國政府秘密授權谷歌 提供搜索某些關鍵詞的用戶數據](../pages/soh6/552387.md?t=10080501) 
+#### [美眾議員: 國務院拒絕公告有美國人在阿富汗死亡](../pages/soh6/552384.md?t=10080501) 
+#### [麥卡錫就司法部一項新規批評民主黨人: 試圖"讓家長們閉嘴"](../pages/soh6/552381.md?t=10080501) 
+#### [拜登政府正放寬學生貸款寬恕計劃規定 更多人將免債](../pages/soh6/552369.md?t=10080501) 
+#### [CNN收視率大跌 各檔節目觀眾大多不到100萬人 ](../pages/soh6/552363.md?t=10080501) 
+#### [助攻國會關鍵戰區 克魯茲在共和黨初選中為新生代站隊](../pages/soh6/552339.md?t=10080501) 
+#### [資產縮水6億美元 川普迭出全美富豪前400名](../pages/soh6/552366.md?t=10080501) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh6-earlier.md)
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
