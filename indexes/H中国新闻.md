@@ -1,9 +1,26 @@
 #### [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-
-### 已转移至新页面 [中国新闻](H中国新闻.md?t=10181104) 
-
+#### [四川4.3級地震 登熱搜榜首 網友：犍為天天地震 膽戰心驚](../pages/soh5/556332.md?t=10181150) 
+#### [不演了？官員們開會時看手機、涮視頻、打瞌睡  數十人受罰](../pages/soh5/556248.md?t=10181150) 
+#### [一箭雙鵰？專家透露習近平金融大清洗內幕](../pages/soh5/556275.md?t=10181150) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
+#### [校方藉《長津湖》奇葩洗腦 學生哭了](../pages/soh5/556233.md?t=10181150) 
+#### [一位前中共警察的告白：“我想告知世界中共的真面目” ](../pages/soh5/556089.md?t=10181150) 
+#### [上海遊客逛甘肅在西安確診 三省市急尋密接者（視頻）](../pages/soh5/556164.md?t=10181150) 
+#### [陸劇盜用外國男照片被抓包 荷蘭網紅傻眼：他是誰](../pages/soh5/556179.md?t=10181150) 
+#### [台海局勢緊張 美媒：未來1年中共侵台機率接近零](../pages/soh5/556158.md?t=10181150) 
+#### [恆大總裁赴港磋商重組  誰將接盤引關註](../pages/soh5/556113.md?t=10181150) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [嘲諷小粉紅及習近平掀熱議 歌曲《玻璃心》被大陸全網封殺](../pages/soh5/556149.md?t=10181150) 
+#### [中國漁船綠光照亮夜空 “馬祖極光”引發居民憤怒](../pages/soh5/556134.md?t=10181150) 
+#### [共同富裕拿韭菜開刀？習近平講話推房地產稅](../pages/soh5/556125.md?t=10181150) 
+#### [怕真相？ 中共約談金山毒霸主辦方](../pages/soh5/556116.md?t=10181150) 
+#### [中國知名「飯圈」集資平台“崩塌” 傳金額數千萬](../pages/soh5/556080.md?t=10181150) 
+#### [江峰: 再提“有序更替” 習近平大位不保？](../pages/soh5/556086.md?t=10181150) 
+#### [人權律師遭受人權侵害 北京懼怕律師依法出庭 ](../pages/soh5/556056.md?t=10181150) 
+#### [章天亮: 習近平連任泡湯? 李克強洩密](../pages/soh5/556041.md?t=10181150) 
+#### [90後秀麗女警與9官有染  二審九變7 還有兩人哪去了](../pages/soh5/555990.md?t=10181150) 
+#### [知情人爆內幕：彭波曾受特殊訓練](../pages/soh5/556035.md?t=10181150) 
+#### [中共召開「史無前例」大會 暗藏習近平連任路線圖](../pages/soh5/555831.md?t=10181150) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh5-earlier.md)
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
