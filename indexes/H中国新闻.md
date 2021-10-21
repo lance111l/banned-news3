@@ -1,9 +1,26 @@
 #### [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-
-### 已转移至新页面 [中国新闻](H中国新闻.md?t=10210952) 
-
+#### [中共以禁止炒作案件為名  大幅限縮律師言行](../pages/soh5/557505.md?t=10211001) 
+#### [傳在黨內廣泛遇阻 學者析習近平房產稅計劃](../pages/soh5/557499.md?t=10211001) 
+#### [中國煤價飆漲  民眾或被迫燒柴取暖](../pages/soh5/557484.md?t=10211001) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
+#### [徵收房地產稅計劃在中共黨內遇阻  學者：設計錯誤或虎頭蛇尾](../pages/soh5/557466.md?t=10211001) 
+#### [權貴階層不願當“韭菜” “共同富裕”目標受阻 習將陷更大風暴？](../pages/soh5/557391.md?t=10211001) 
+#### [專家：制裁危害南海的中共個人是美兩黨共識](../pages/soh5/557364.md?t=10211001) 
+#### [章天亮: 習近平三大挫敗 六中全會決議能保安全嗎？](../pages/soh5/557343.md?t=10211001) 
+#### [地產業難熬 中國9月房屋價格6年來首次下跌](../pages/soh5/557334.md?t=10211001) 
+#### [金融系官場地震 央行原科技司長王永紅被調查](../pages/soh5/557325.md?t=10211001) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [二十大人事佈局 兩天13省高層大換血  劉海泉“空降”安徽](../pages/soh5/557313.md?t=10211001) 
+#### [習近平在這領域踩剎車？釋放特殊信號](../pages/soh5/557316.md?t=10211001) 
+#### [軍媒煽動“朝陽大媽”民間抓“美國間諜” ](../pages/soh5/557265.md?t=10211001) 
+#### [抵制風波中 北京冬奧聖火火種抵京 僅在3地傳遞 ](../pages/soh5/557262.md?t=10211001) 
+#### [河北病例來自北京 武漢開始發抖 疫情涉及8省市（視頻）](../pages/soh5/557244.md?t=10211001) 
+#### [美媒曝習近平受挫 政治流言預示大風暴來襲](../pages/soh5/557157.md?t=10211001) 
+#### [“人權惡棍”王君正任書記  西藏文化將徹底不保？](../pages/soh5/557232.md?t=10211001) 
+#### [雷軍也要隱退？不再任小米信用管理公司董事長](../pages/soh5/557205.md?t=10211001) 
+#### [財新生變 學者解讀幕後信息](../pages/soh5/556485.md?t=10211001) 
+#### [中共軍方測試高超音速導彈 分析指或成新版「衛星時刻」](../pages/soh5/556878.md?t=10211001) 
+#### [「709律師」家屬參選人大代表 屢遭干擾警告](../pages/soh5/557112.md?t=10211001) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh5-earlier.md)
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
