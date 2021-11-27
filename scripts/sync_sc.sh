@@ -13,7 +13,7 @@ for channel in $channels ; do
 	url="http://www.secretchina.com/news/gb/$channel.xml"
 	echo "getting channel: $url"
 	wget -q $url -O $channel.xml
-	python parse_sc.py $channel
+	python3 parse_sc.py $channel
 
 	for f in $(ls ../pages/$channel/*.md); do
 		sed -i '/看中国网站 禁止建立鏡像網站/d' $f
