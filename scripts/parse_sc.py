@@ -18,7 +18,7 @@ root = tree.getroot()
 
 def get_content(text, link):
 	response = requests.get(link)
-	text = response.text.encode('utf-8')
+	text = response.text	#.encode('utf-8')
 	parser = BeautifulSoup(text, 'html.parser')
 	for script in parser.find_all('script'):
 		script.decompose()
@@ -26,7 +26,8 @@ def get_content(text, link):
 		iframe.decompose()
 	article = parser.find('div', attrs = {'class': 'article_right'})
 	links = '\n\n---' + macros.proxy 
-	return article.prettify().encode('utf-8') \
+	#return article.prettify().encode('utf-8') \
+	return article.prettify() \
 				.replace('<div id="SC-22">', links) \
 				.replace('<div id="SC-22xxx">', links) \
 				.replace('src="//img1.', 'src="https://img1.') \
@@ -46,7 +47,7 @@ for child in root[0]:
 	if child.tag != 'item':
 		continue
 	link = child.find('link').text
-	title = child.find('title').text.encode('utf-8')
+	title = child.find('title').text #.encode('utf-8')
 	name = get_name(link) + '.md'
 	file_path = '../pages/' + channel + '/' + name 
 	

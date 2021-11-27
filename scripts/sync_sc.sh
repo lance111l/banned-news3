@@ -1,7 +1,7 @@
 #!/bin/bash
 # author: gfw-breaker
 
-channels="p1 p2 p3 p4 p5 p6 p7 p8 p9"
+channels="p1 p2 p4 p5 p6 p7 p8 p9"
 
 ## create dirs
 for channel in $channels ; do
