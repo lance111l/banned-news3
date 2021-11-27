@@ -50,7 +50,9 @@ for child in root[0]:
 	title = child.find('title').text #.encode('utf-8')
 	name = get_name(link) + '.md'
 	file_path = '../pages/' + channel + '/' + name 
+	# print('rm -fr ' + file_path)
 	
+
 	#if True:
 	if not os.path.exists(file_path):
 		print(file_path)
