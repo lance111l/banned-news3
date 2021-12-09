@@ -1,26 +1,9 @@
 #### [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-#### [DAFOH將於國際人權日舉行研討會 關注中共活摘罪行](../pages/soh6/573401.md?t=12090801) 
-#### [Instagram對年輕人有潛在危險？負責人遭美參院“拷問”](../pages/soh6/573422.md?t=12090801) 
-#### [美參院準備通過決議 宣布拜登疫苗令無效](../pages/soh6/573389.md?t=12090801) 
+
+### 已转移至新页面 [北美新闻](H北美新闻.md?t=12090850) 
+
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [美眾院通過《2022年國防授權法》 被稱是“保守價值觀的勝利”](../pages/soh6/573341.md?t=12090801) 
-#### [調查：美國人有計劃在假期消費 但擔心通脹和供應瓶頸](../pages/soh6/573386.md?t=12090801) 
-#### [大火燒毀福克斯廣場前50英尺高“全美聖誕樹” 嫌犯被捕 ](../pages/soh6/573350.md?t=12090801) 
-#### [美眾院通過特殊程序協議 允許民主黨自行提高債務上限](../pages/soh6/573344.md?t=12090801) 
-#### [世界頂級科學家: 奧密克戎(Omicron)“有可能更不嚴重”](../pages/soh6/573329.md?t=12090801) 
-#### [備戰中共  美眾議院通過新財年國防授權法協調版本](../pages/soh6/573311.md?t=12090801) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
-#### [高智晟和張展獲頒“林昭自由獎”](../pages/soh6/573323.md?t=12090801) 
-#### [紀念珍珠港事件80週年 美媒發文頌“美國精神”](../pages/soh6/573152.md?t=12090801) 
-#### [美參眾兩院就國防預算達共識 擬為印太防禦撥71億](../pages/soh6/573107.md?t=12090801) 
-#### [馬斯克高調拋售特斯拉股票 但持股不減反增](../pages/soh6/573110.md?t=12090801) 
-#### [一聯邦法官再阻止拜登對聯邦承包商的全國疫苗令](../pages/soh6/573080.md?t=12090801) 
-#### [有200多份美國地方報刊正在起訴谷歌和臉書](../pages/soh6/573065.md?t=12090801) 
-#### [川普：川普媒體新CEO努內斯將幫我們恢復 "聲音"](../pages/soh6/573074.md?t=12090801) 
-#### [吹哨人稱特斯拉太陽能板有重大隱患 美監督機構開查](../pages/soh6/573068.md?t=12090801) 
-#### [帶頭抵制北京冬奧後 美國務院籲盟友做個決定  ](../pages/soh6/573071.md?t=12090801) 
-#### [前幕僚長梅多斯：川普已在為2024總統競選做準備](../pages/soh6/573050.md?t=12090801) 
-#### [緬甸羅興亞難民起訴臉書煽動仇恨 求償1500億美元](../pages/soh6/573041.md?t=12090801) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh6-earlier.md)
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
