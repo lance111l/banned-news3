@@ -1,26 +1,9 @@
 #### [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-#### [鄧炳強極憤怒 羅冠聰冷靜回應：加碼參加民主峰會場邊活動](../pages/soh55/573884.md?t=12101550) 
-#### [遭控“六四非法集結” 黎智英等3人被定罪](../pages/soh55/573554.md?t=12101550) 
-#### [香港防疫嚴苛 國泰機組陷“永久隔離”](../pages/soh55/573497.md?t=12101550) 
+
+### 已转移至新页面 [港台新闻](H港台新闻.md?t=12101602) 
+
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [台灣四大公投倒數 “萊豬”重中之重](../pages/soh55/573491.md?t=12101550) 
-#### [遭鄧炳強斥“漢奸” 羅冠聰反諷：反中亂港 應早自首](../pages/soh55/573290.md?t=12101550) 
-#### [港府擬改“官派律師” 大律師公會示警](../pages/soh55/573194.md?t=12101550) 
-#### [政團抗議邊境設投票站 促港人良心表態](../pages/soh55/572942.md?t=12101550) 
-#### [立法會選舉臨近 調查：港人投票意欲創歷年新低](../pages/soh55/572948.md?t=12101550) 
-#### [台灣外長：中共的軍事野心或引發第三次世界大戰](../pages/soh55/572780.md?t=12101550) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
-#### [史無前例！夏寶龍喊話立法會選舉 ](../pages/soh55/572834.md?t=12101550) 
-#### [華爾街日報社評提杯葛選舉 港官員警告“違法”](../pages/soh55/572588.md?t=12101550) 
-#### [香港立法會選舉在即  僅1/4候選人覆問卷](../pages/soh55/572501.md?t=12101550) 
-#### [劉銳紹: 中共杯葛反讓金馬獎身價越提升《時代革命》獲最佳](../pages/soh55/572372.md?t=12101550) 
-#### [核潛艇浮出水面穿越台海 專家：或爆意外衝突 ](../pages/soh55/572240.md?t=12101550) 
-#### [羅冠聰呼籲抵製香港立法會選舉](../pages/soh55/572252.md?t=12101550) 
-#### [彭博社：《蘋果日報》將關閉臺灣業務](../pages/soh55/572129.md?t=12101550) 
-#### [海峽論壇將登場 陸委會：不希望人員出席對台統戰平台](../pages/soh55/572000.md?t=12101550) 
-#### [港民研調查：逾六成人認為無法調查大陸違規競選 ](../pages/soh55/571799.md?t=12101550) 
-#### [ 推特臉書狂刪中國帳號 台專家：社媒平臺在操作認知](../pages/soh55/571631.md?t=12101550) 
-#### [港府推健康碼實名登記 政黨憂洩市民隱私](../pages/soh55/571433.md?t=12101550) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh55-earlier.md)
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
