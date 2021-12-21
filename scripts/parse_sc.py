@@ -34,6 +34,7 @@ def get_content(text, link):
 				.replace('src="//img2.', 'src="https://img2.') \
 				.replace('src="//img3.', 'src="https://img3.') \
 				.replace('src="//img4.', 'src="https://img4.') \
+				.replace('src="//img5.', 'src="https://img5.') \
 				.replace('<a href', '<span href') \
 				.replace('</a>', '</span>')
 
