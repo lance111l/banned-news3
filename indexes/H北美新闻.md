@@ -1,9 +1,26 @@
 #### [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-
-### 已转移至新页面 [北美新闻](H北美新闻.md?t=03151401) 
-
+#### [关键时刻杨洁篪拒绝美方要求？ 专家预告下一步](../pages/soh6/603149.md?t=03151451) 
+#### [纽约律师李进进遇刺 嫌犯传与中共有关](../pages/soh6/603152.md?t=03151451) 
+#### [神韵将开启2022年加拿大巡演 议员发信祝贺](../pages/soh6/603107.md?t=03151451) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
+#### [纽约周日爆满加座 精英为神韵艺术家骄傲](../pages/soh6/603104.md?t=03151451) 
+#### [美议员担心：美国或在乌克兰直接卷入与俄冲突](../pages/soh6/603008.md?t=03151451) 
+#### [章家敦：莫斯科和北京在结危险的“便利婚姻”](../pages/soh6/602999.md?t=03151451) 
+#### [川普：强大的美国是世界和平的保障 现政府的政策是一场灾难](../pages/soh6/602990.md?t=03151451) 
+#### [神韵纽约演出再爆满 主流赞文化视角前所未见](../pages/soh6/602684.md?t=03151451) 
+#### [美国前总统奥巴马确诊染疫 已接种过疫苗加强剂](../pages/soh6/602660.md?t=03151451) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### ["神韵给所有人一个机会" 盐湖城精英感激](../pages/soh6/602483.md?t=03151451) 
+#### [江峰: 解读俄军装甲军车两大特征—Z字母和长木头](../pages/soh6/602459.md?t=03151451) 
+#### [美企业家感动落泪：神韵展现天堂 带来希望](../pages/soh6/602360.md?t=03151451) 
+#### [投资银行总裁：神韵把我带到神圣的天国世界](../pages/soh6/602351.md?t=03151451) 
+#### [美印太司令部司令警告：非法战争引发的罪恶感将令习普无法摆脱](../pages/soh6/602243.md?t=03151451) 
+#### [拜登：为防第三次世界大战 北约不会入乌与俄直接作战](../pages/soh6/602234.md?t=03151451) 
+#### [神韵亚利桑那梅萨加座售罄 观众：创世主为所有人而来](../pages/soh6/602216.md?t=03151451) 
+#### [神韵纽约首场爆满 州议员现场颁发褒奖](../pages/soh6/602213.md?t=03151451) 
+#### [林肯中心观神韵 纽约母女：听到高层生命的呼唤](../pages/soh6/602141.md?t=03151451) 
+#### [纽约大学校长：神韵倡导的价值观是世界所需](../pages/soh6/602126.md?t=03151451) 
+#### [华日民调：拜登、民主党在关键问题上失分](../pages/soh6/602198.md?t=03151451) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh6-earlier.md)
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
