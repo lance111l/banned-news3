@@ -1,29 +1,6 @@
 #### [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-#### [上海13天染疫破5万 传浙江6市备妥容纳3万人隔离场所(组图)](../pages/p1/1002526.md?t=04050507) 
-#### [防控？北京急调2000军人入驻上海“运-20”现身虹桥机场(视频/图)](../pages/p1/1002542.md?t=04050507) 
-#### [上海防疫：孤寡老人活活饿死 重患不准去透析惨死(图)](../pages/p1/1002547.md?t=04050507) 
-#### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [防控却失控 惊现防护人员欧打一男子画面(图)](../pages/p1/1002523.md?t=04050507) 
-#### [上海封城惹众怒 一男子高喊打倒共产党(图)](../pages/p1/1002522.md?t=04050507) 
-#### [上海13天染疫破5万 传浙江6市备妥容纳3万人隔离场所(组图)](../pages/p1/1002526.md?t=04050507) 
-#### [防控？北京急调2000军人入驻上海“运-20”现身虹桥机场(视频/图)](../pages/p1/1002542.md?t=04050507) 
-#### [上海防疫：孤寡老人活活饿死 重患不准去透析惨死(图)](../pages/p1/1002547.md?t=04050507) 
-#### [中国研究生反对学校防疫政策 校内举牌抗议遭开除](../pages/p1/1002529.md?t=04050507) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
-#### [防控却失控 惊现防护人员欧打一男子画面(图)](../pages/p1/1002523.md?t=04050507) 
-#### [上海封城惹众怒 一男子高喊打倒共产党(图)](../pages/p1/1002522.md?t=04050507) 
-#### [人为悲剧？传上海两岁童隔离中死妈妈自杀(图)](../pages/p1/1002510.md?t=04050507) 
-#### [中国27省83城日感染13137人 近46万人在医护观察(图)](../pages/p1/1002499.md?t=04050507) 
-#### [突发：长春进行“最严格封控” 目标5天内清零(图)](../pages/p1/1002464.md?t=04050507) 
-#### [习辗“上海帮”？中国记者谈上海疫情真正根源(图)](../pages/p1/1002455.md?t=04050507) 
-#### [苏州惊现全球首例Omicron新变异株 上海建最大方舱急调6000人(图)](../pages/p1/1002422.md?t=04050507) 
-#### [封控、管控雾煞煞？中国防疫用词一次看懂(图)](../pages/p1/1002417.md?t=04050507) 
-#### [上海人遇生存危机 呼吁官员止“静态清零”(图)](../pages/p1/1002401.md?t=04050507) 
-#### [上海居民发布请命书 要求“速停运动式防疫”(图)](../pages/p1/1002405.md?t=04050507) 
-#### [上海市民与疾控中心官员对话录音完整曝光(视频/图)](../pages/p1/1002364.md?t=04050507) 
-#### [上海11天近4万人染疫 激进手段惹恼欧盟 6大要求曝光(视频/图)](../pages/p1/1002361.md?t=04050507) 
-#### [上海一老年院医护全感染 传天天有老人离世(组图)](../pages/p1/1002352.md?t=04050507) 
-#### [“大翻译运动”揭中共画皮 北京封杀 推特追随？(组图)](../pages/p1/1002339.md?t=04050507) 
 
-----
-#### [ >>> 更早内容 <<< ](../indexes/p1-earlier.md)
+### 已转移至新页面 [看大陆](S看大陆.md) 
+
+#### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
