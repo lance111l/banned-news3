@@ -1,9 +1,22 @@
 #### [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-
-### 已转移至新页面 [中国新闻](H中国新闻.md?t=04050804) 
-
+#### [上海防控酿悲剧  清华才女命丧医院 一线防疫医生爆真相吓你一跳](../pages/soh5/609257.md?t=04050853) 
+#### [对苦涩人生万念俱灰  一个对的选择改变了一切](../pages/soh5/609221.md?t=04050853) 
+#### [章天亮: 习氏防疫“闪电战”  上海、长春相继沦陷](../pages/soh5/609191.md?t=04050853) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
+#### [苏州爆新变种  军警现身上海  防疫幕后权斗正酣](../pages/soh5/609062.md?t=04050853) 
+#### [山东研究生反对防疫政策被开除 长春5天清零网友傻眼](../pages/soh5/609131.md?t=04050853) 
+#### [医院不救死扶伤 沦为迫害帮凶](../pages/soh5/609050.md?t=04050853) 
+#### [上海“清零”防疫背后水很深 李强遭习近平批评间接道歉？](../pages/soh5/609086.md?t=04050853) 
+#### [中国电商大裁员 京东每日超千人“排队离职”](../pages/soh5/609074.md?t=04050853) 
+#### [神奇的项链](../pages/soh5/608981.md?t=04050853) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [章天亮: 上海封城变武汉 各区被它省接管 内幕惊人](../pages/soh5/608972.md?t=04050853) 
+#### [上海疫情防控点燃民众怒火 男子高喊：打倒共产党](../pages/soh5/608756.md?t=04050853) 
+#### [清明将至 中国代理扫墓嚎啕大哭一次收费千元](../pages/soh5/608900.md?t=04050853) 
+#### [奇还更奇！一位农夫的三次神奇经历](../pages/soh5/608828.md?t=04050853) 
+#### [谴责防疫手段无人性 欧盟致函上海政府](../pages/soh5/608795.md?t=04050853) 
+#### [中企裁员潮危机加深 专家：北京一手促成](../pages/soh5/608798.md?t=04050853) 
+#### [章天亮: 帮普京入侵乌克兰 中共被抓了现行](../pages/soh5/608777.md?t=04050853) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh5-earlier.md)
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
