@@ -1,23 +1,9 @@
 #### [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-#### [很微妙 王岐山再次以习特使头衔出访菲律宾(图)](../pages/p2/1010450.md?t=06292101) 
-#### [港媒：习近平携夫人访港 彭丽媛将参观戏曲中心(图)](../pages/p2/1010437.md?t=06292101) 
-#### [刘强东“性侵案”大反转 女主索赔从5万跳到500万美金(组图)](../pages/p2/1010362.md?t=06292101) 
+
+### 已转移至新页面 [看官场](S看官场.md?t=06292136) 
+
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [李强连任上海市委书记 习亲信们为能入常“摩拳擦掌”(图)](../pages/p2/1010434.md?t=06292101) 
-#### [上任仅两个月 青岛市委常委、宣传部长张军落马(图)](../pages/p2/1010396.md?t=06292101) 
-#### [求官心切？二十大人事卡位激烈 地方诸侯争相表忠(图)](../pages/p2/1010295.md?t=06292101) 
-#### [很微妙 王岐山再次以习特使头衔出访菲律宾(图)](../pages/p2/1010450.md?t=06292101) 
-#### [习近平2012年上台后 发生一件惊人事情(图)](../pages/p2/1010453.md?t=06292101) 
-#### [港媒：习近平携夫人访港 彭丽媛将参观戏曲中心(图)](../pages/p2/1010437.md?t=06292101) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
-#### [刘强东“性侵案”大反转 女主索赔从5万跳到500万美金(组图)](../pages/p2/1010362.md?t=06292101) 
-#### [李强连任上海市委书记 习亲信们为能入常“摩拳擦掌”(图)](../pages/p2/1010434.md?t=06292101) 
-#### [表忠翻车 蔡奇一句话透露习近平连任成定局？(图)](../pages/p2/1010355.md?t=06292101) 
-#### [上任仅两个月 青岛市委常委、宣传部长张军落马(图)](../pages/p2/1010396.md?t=06292101) 
-#### [求官心切？二十大人事卡位激烈 地方诸侯争相表忠(图)](../pages/p2/1010295.md?t=06292101) 
-#### [习近平七一访港两天不过夜 每日往返深圳(图)](../pages/p2/1010273.md?t=06292101) 
-#### [王小洪推百日行动“硬拳头”保护妇女 分析：为习连任造势(图)](../pages/p2/1010267.md?t=06292101) 
-#### [跑路了？习近平刚下令马云开14亿游艇欧洲打高尔夫(图)](../pages/p2/1010191.md?t=06292101) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/p2-earlier.md)
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
