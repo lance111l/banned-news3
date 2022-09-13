@@ -107,7 +107,7 @@ sed -i "s/\.md?t=[0-9]*)/.md?t=$tt)/g" ../README.md
 git add ../README.md
 
 # hello
-./helloworld.sh
+#./helloworld.sh
 
 # commit
 ts=$(date "+-%m月-%d日-%H时-%M分" | sed 's/-0//g' | sed 's/-//g')
