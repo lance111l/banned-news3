@@ -93,7 +93,7 @@ git add ../pages/*
 
 ## purge old entries
 for d in $(ls ../pages/); do
-    for f in $(ls -t ../pages/$d | grep 'md$' | sed -n '500,$p'); do
+    for f in $(ls -t ../pages/$d | grep 'md$' | sed -n '800,$p'); do
         git rm "../pages/$d/$f"   
         git rm "../pages/$d/$f.png"   
     done
