@@ -1,27 +1,9 @@
 #### [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-#### [习近平的身体与心理健康问题(图)](../pages/p4/1020583.md?t=11011150) 
-#### [【百年百首咏史】一零一：反腐(图)](../pages/p4/1020533.md?t=11011150) 
-#### [延安窑洞红旗渠 习近平被指在倒退的路上狂奔(图)](../pages/p4/1020489.md?t=11011150) 
+
+### 已转移至新页面 [看博谈](S看博谈.md?t=11011204) 
+
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [一个时代结束了 中国会经历乱世吗？(图)](../pages/p4/1020488.md?t=11011150) 
-#### [习近平回延安 这份“真爱”有多真？(组图)](../pages/p4/1020443.md?t=11011150) 
-#### [赢是梦 输吃草 中共斗争以人民为代价(图)](../pages/p4/1020417.md?t=11011150) 
-#### [胡离席曝光黑幕 习被指实质“政变”(图)](../pages/p4/1020535.md?t=11011150) 
-#### [在家啃老 年轻人不工作的退路(图)](../pages/p4/1020597.md?t=11011150) 
-#### [宏大叙事过剩之下 看到消解苦难的亮光(图)](../pages/p4/1020596.md?t=11011150) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
-#### [冯小刚远遁(图)](../pages/p4/1020595.md?t=11011150) 
-#### [习近平的身体与心理健康问题(图)](../pages/p4/1020583.md?t=11011150) 
-#### [【百年百首咏史】一零一：反腐(图)](../pages/p4/1020533.md?t=11011150) 
-#### [就这样沉默地走在中原大地上(组图)](../pages/p4/1020493.md?t=11011150) 
-#### [反思中国民族主义 被利用还是助纣为虐(图)](../pages/p4/1020492.md?t=11011150) 
-#### [延安窑洞红旗渠 习近平被指在倒退的路上狂奔(图)](../pages/p4/1020489.md?t=11011150) 
-#### [一个时代结束了 中国会经历乱世吗？(图)](../pages/p4/1020488.md?t=11011150) 
-#### [习近平回延安 这份“真爱”有多真？(组图)](../pages/p4/1020443.md?t=11011150) 
-#### [赢是梦 输吃草 中共斗争以人民为代价(图)](../pages/p4/1020417.md?t=11011150) 
-#### [国内疫情已经遍地“开花”了(图)](../pages/p4/1020426.md?t=11011150) 
-#### [中国的公安干警也躺平？(图)](../pages/p4/1020424.md?t=11011150) 
-#### [郑州隔离 还以为住进了监狱(图)](../pages/p4/1020418.md?t=11011150) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/p4-earlier.md)
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
