@@ -65,6 +65,9 @@ while read line; do
 	link=$(echo $line | cut -d',' -f1)
 	title=$(echo $line | cut -d',' -f2)
 	echo -e "#### [$title](https://github.com/gfw-breaker$link)" >> $hot_page
+	md_path=$(echo "/root/repos$line" | sed 's#/blob/master##')
+	echo $md_path
+	touch $md_path
 done < /root/page_count/banned-news3.hot
 
 echo 'generate'
