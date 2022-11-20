@@ -9,7 +9,7 @@
 #### 看中国新闻网 &nbsp;-&nbsp; [看大陆](indexes/S看大陆.md?t=11200919) &nbsp;|&nbsp; [看官场](indexes/S看官场.md?t=11200919) &nbsp;|&nbsp; [看博谈](indexes/S看博谈.md?t=11200919) &nbsp;|&nbsp; [看财经](indexes/S看财经.md?t=11200919) &nbsp;|&nbsp; [看史海](indexes/S看史海.md?t=11200919) &nbsp;|&nbsp; [看文化](indexes/S看文化.md?t=11200919) &nbsp;|&nbsp; [看生活](indexes/S看生活.md?t=11200919) &nbsp;|&nbsp; [看世界](indexes/S看世界.md?t=11200919)
 
 
-#### 学习 [手把手翻墙教程](https://github.com/gfw-breaker/guides/wiki)，自由浏览互联网 &nbsp;|&nbsp; [聚缘阁免翻墙动态代理](https://git.io/jyg36)
+#### 学习 [手把手翻墙教程](https://github.com/gfw-breaker/guides/wiki)，自由浏览互联网
 
 ----
 
