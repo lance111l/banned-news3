@@ -30,7 +30,7 @@ for f in $(ls ../indexes/*); do
 	sed -i "/视频)/d" $f
 done
 
-
+echo 'qr'
 ## add qr code
 base_url="https://github.com/gfw-breaker/banned-news3/blob/master"
 for d in $(ls ../pages/); do
@@ -43,7 +43,7 @@ for d in $(ls ../pages/); do
     done
 done
 
-
+echo 'older'
 ## older entry list
 for d in $(ls ../pages/ | grep -v '.md'); do
 	idx=../indexes/$d.md
@@ -57,7 +57,7 @@ for d in $(ls ../pages/ | grep -v '.md'); do
 	done
 done
 
-
+echo 'hotnew'
 ## hotnews
 hot_page=../indexes/hotnews.md
 echo -n > $hot_page
@@ -67,7 +67,7 @@ while read line; do
 	echo -e "#### [$title](https://github.com/gfw-breaker$link)" >> $hot_page
 done < /root/page_count/banned-news3.hot
 
-
+echo 'generate'
 ## geneate indexes
 while read line; do
 	key=$(echo $line | cut -d',' -f1)
@@ -90,7 +90,7 @@ done < ../indexes/names.csv
 git add ../indexes/*
 git add ../pages/*
 
-
+echo 'purge'
 ## purge old entries
 for d in $(ls ../pages/); do
     for f in $(ls -t ../pages/$d | grep 'md$' | sed -n '800,$p'); do
