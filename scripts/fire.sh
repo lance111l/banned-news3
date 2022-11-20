@@ -101,7 +101,7 @@ for d in $(ls ../pages/); do
     done
 done
 
-git rm -f ../indexes/link*.md.md
+#git rm -f ../indexes/link*.md.md
 
 ## write README.md
 rm *.xml

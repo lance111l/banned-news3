@@ -16,7 +16,10 @@ for channel in $channels ; do
 	python3 parse_sc.py $channel
 
 	for f in $(ls ../pages/$channel/*.md); do
-		sed -i '/看中国网站 禁止建立鏡像網站/d' $f
+		grep '禁止建立鏡像網站' $f > /dev/null 2>&1 
+		#if [ $? -eq 0 ]; then
+		#	sed -i '/看中国网站 禁止建立鏡像網站/d' $f
+		#fi
 	done
 done
 
