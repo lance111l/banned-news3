@@ -47,8 +47,8 @@ def write_page(channel, f_name, f_path, title, link, content):
 
 def get_links():
 	result = ""
-	site_base_url = "http://158.247.195.190:10000/videos/news/"
-	idx_file = '/usr/local/nginx/html/videos/news/readme.txt'
+	site_base_url = "http://158.247.195.190:10000/videos/res1/news/"
+	idx_file = '/usr/share/nginx/html/videos/res1/news/readme.txt'
 	lines = open(idx_file, "r").read().splitlines()
 	for line in lines[1:4][::-1]:
 		cols = line.split(',')
@@ -60,4 +60,9 @@ def get_links():
 
 
 #proxy += get_links()
+
+if __name__ == '__main__':
+	links = get_links()
+	print(proxy + links)
+
 
