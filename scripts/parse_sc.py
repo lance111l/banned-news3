@@ -2,6 +2,7 @@
 # coding: utf-8
 
 import macros
+import macros_sc
 import sys
 import os
 import requests
@@ -25,7 +26,7 @@ def get_content(text, link):
 	for iframe in parser.find_all('iframe'):
 		iframe.decompose()
 	article = parser.find('div', attrs = {'class': 'article_right'})
-	links = '\n\n---' + macros.proxy 
+	links = '\n\n---' + macros_sc.proxy 
 	#return article.prettify().encode('utf-8') \
 	return article.prettify() \
 				.replace('<div id="SC-22">', links) \
