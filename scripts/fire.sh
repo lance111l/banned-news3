@@ -32,7 +32,7 @@ done
 
 
 ## add qr code
-base_url="https://github.com/gfw-breaker/banned-news1/blob/master"
+base_url="https://github.com/gfw-breaker/banned-news3/blob/master"
 for d in $(ls ../pages/); do
     for f in $(ls -t ../pages/$d | grep 'md$'); do
 		a_path="../pages/$d/$f"
