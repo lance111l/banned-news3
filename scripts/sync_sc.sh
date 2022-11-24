@@ -10,16 +10,16 @@ done
 	
 ## get feeds files
 for channel in $channels ; do
-	url="http://www.secretchina.com/news/gb/$channel.xml"
+	url="https://www.secretchina.com/news/gb/$channel.xml"
 	echo "getting channel: $url"
 	wget -q $url -O $channel.xml
 	python3 parse_sc.py $channel
 
 	for f in $(ls ../pages/$channel/*.md); do
-		grep '禁止建立鏡像網站' $f > /dev/null 2>&1 
-		#if [ $? -eq 0 ]; then
-		#	sed -i '/看中国网站 禁止建立鏡像網站/d' $f
-		#fi
+		grep '返回正版看中国网站' $f > /dev/null 2>&1 
+		if [ $? -eq 0 ]; then
+			sed -i '/返回正版看中国网站/d' $f
+		fi
 	done
 done
 
