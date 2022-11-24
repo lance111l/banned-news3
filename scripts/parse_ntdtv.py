@@ -26,7 +26,7 @@ def get_content(url):
 		link.decompose()
 	post_title = parser.find('div', attrs = {'class': 'featured_image'})
 	if post_title is None:
-		post_title = ''
+		post_title = '<hr/>\n\n' + macros.proxy + '\n\n'
 	else:
 		try:
 			post_title.find('a').unwrap()
