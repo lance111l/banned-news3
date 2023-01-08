@@ -1,24 +1,9 @@
 #### [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-#### [马云失去蚂蚁集团控制权 江泽民家族进一步失势？](../pages/soh5/685869.md?t=01081543) 
-#### [北京疫情海啸  83岁重症老人念诵“九字真言”跨过鬼门关](../pages/soh5/685821.md?t=01081543) 
-#### [章天亮: 与“丁薛祥自杀”相关的政治常识](../pages/soh5/685812.md?t=01081543) 
+
+### 已转移至新页面 [中国新闻](H中国新闻.md?t=01081843) 
+
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [江峰: 烟花禁令放开 变革能量积蓄 普京停火 美欧为何加码援乌](../pages/soh5/685818.md?t=01081543) 
-#### [中共体制内人员扎堆离世 专家揭其中深层黑幕](../pages/soh5/685776.md?t=01081543) 
-#### [北京内部消息：习身边有人想造反](../pages/soh5/685635.md?t=01081543) 
-#### [中国多地民众反抗有效？ 评：中共体制开始崩塌](../pages/soh5/685629.md?t=01081543) 
-#### [唐山再现恶性案件 女子请求报警：我不行了！ ](../pages/soh5/685623.md?t=01081543) 
-#### [美媒：北京拟放宽地产业“三条红线”](../pages/soh5/685611.md?t=01081543) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
-#### [党媒新年高喊“斗争” 张文宏内部录音曝光透信息](../pages/soh5/685617.md?t=01081543) 
-#### [习近平任免多名驻外大使 独缺驻美大使](../pages/soh5/685602.md?t=01081543) 
-#### [杭州腹泻患者暴增 疑XBB变种毒株多地爆发](../pages/soh5/685578.md?t=01081543) 
-#### [【大陆来函】医生: 百里不出一 回家放鞭炮吧](../pages/soh5/685569.md?t=01081543) 
-#### [胡锦涛之子新年露面 丁薛祥自杀？中南海进入“多事时代”](../pages/soh5/685572.md?t=01081543) 
-#### [江峰:“人矿”热搜 香港快递员被判囚8个月 疫情过峰vs国难当头](../pages/soh5/685554.md?t=01081543) 
-#### [大动作！三虎同日落马 “秒杀”汲斌昌 薄熙来旧部判死缓](../pages/soh5/685551.md?t=01081543) 
-#### [中共高层大洗牌 这个人的去向备受关注](../pages/soh5/685479.md?t=01081543) 
-#### [中国网络科技巨头掀裁员潮影响有限？它才是中重点](../pages/soh5/685527.md?t=01081543) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh5-earlier.md)
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
