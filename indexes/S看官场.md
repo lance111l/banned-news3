@@ -1,24 +1,9 @@
 #### [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-#### [医保改革缩减民众福利 高官却似候鸟冬季一到就住院享受(图)](../pages/p2/1030569.md?t=03111244) 
-#### [李克强谢幕 10年总理悲壮告终？(图)](../pages/p2/1030795.md?t=03111244) 
-#### [妥协与交易？韩正出任中共国家副主席(图)](../pages/p2/1030747.md?t=03111244) 
+
+### 已转移至新页面 [看官场](S看官场.md?t=03111543) 
+
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [比肩毛泽东 习近平全票“当选”国家主席(图)](../pages/p2/1030744.md?t=03111244) 
-#### [备战？习近平强调一体化战略体系、建世界一流军队(组图)](../pages/p2/1030722.md?t=03111244) 
-#### [秦刚“战狼秀”闯祸？台谈谬误政治 美现中共是“头号敌人”(图)](../pages/p2/1030629.md?t=03111244) 
-#### [习亲信宋涛意外落选政协副主席(图)](../pages/p2/1030808.md?t=03111244) 
-#### [医保改革缩减民众福利 高官却似候鸟冬季一到就住院享受(图)](../pages/p2/1030569.md?t=03111244) 
-#### [李克强谢幕 10年总理悲壮告终？(图)](../pages/p2/1030795.md?t=03111244) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
-#### [最危险的人主导台湾事务 王沪宁升任政协主席(图)](../pages/p2/1030770.md?t=03111244) 
-#### [妥协与交易？韩正出任中共国家副主席(图)](../pages/p2/1030747.md?t=03111244) 
-#### [比肩毛泽东 习近平全票“当选”国家主席(图)](../pages/p2/1030744.md?t=03111244) 
-#### [备战？习近平强调一体化战略体系、建世界一流军队(组图)](../pages/p2/1030722.md?t=03111244) 
-#### [秦刚“战狼秀”闯祸？台谈谬误政治 美现中共是“头号敌人”(图)](../pages/p2/1030629.md?t=03111244) 
-#### [篮协惊传大地震 姚明遭调查(图)](../pages/p2/1030611.md?t=03111244) 
-#### [最后的暗战？李克强两会报告揭习近平“伤疤”(图)](../pages/p2/1030586.md?t=03111244) 
-#### [直接撕破脸 习近平两会狠批美国造成中国危机(图)](../pages/p2/1030583.md?t=03111244) 
-#### [习近平罕见公开批美 秦刚显战狼本色(图)](../pages/p2/1030547.md?t=03111244) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/p2-earlier.md)
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 

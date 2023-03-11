@@ -1,28 +1,9 @@
 #### [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-#### [晋厉公凄惨下场的教训(图)](../pages/p7/1030618.md?t=03111244) 
-#### [宋朝异人擅长面相术 预测精准(图)](../pages/p7/1030422.md?t=03111244) 
-#### [铜钱的意义与古人的经商之道(图)](../pages/p7/1030268.md?t=03111244) 
+
+### 已转移至新页面 [看文化](S看文化.md?t=03111543) 
+
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
-#### [为父母添寿？出嫁女儿可以这么做(组图)](../pages/p7/1030616.md?t=03111244) 
-#### [什么是“座右铭”？(图)](../pages/p7/1029600.md?t=03111244) 
-#### [晋厉公凄惨下场的教训(图)](../pages/p7/1030618.md?t=03111244) 
-#### [小说《分神诀》第十八章 罪恶(图)](../pages/p7/1029239.md?t=03111244) 
-#### [宋朝异人擅长面相术 预测精准(图)](../pages/p7/1030422.md?t=03111244) 
-#### [铜钱的意义与古人的经商之道(图)](../pages/p7/1030268.md?t=03111244) 
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
-#### [为父母添寿？出嫁女儿可以这么做(组图)](../pages/p7/1030616.md?t=03111244) 
-#### [什么是“座右铭”？(图)](../pages/p7/1029600.md?t=03111244) 
-#### [小说《分神诀》第十七章 女修(图)](../pages/p7/1029238.md?t=03111244) 
-#### [“国是”与“国事”有何不同？(图)](../pages/p7/1030403.md?t=03111244) 
-#### [从鸠摩罗什的传奇故事说起(图)](../pages/p7/1030346.md?t=03111244) 
-#### [尸解离开的修道人(图)](../pages/p7/1029986.md?t=03111244) 
-#### [【神州大地系列】华夏文明的龙脉——秦岭(图)](../pages/p7/1030267.md?t=03111244) 
-#### [小说《分神诀》第十六章 噩梦中的楚莹儿(图)](../pages/p7/1029237.md?t=03111244) 
-#### [汉字信息量大得惊人：浅谈“病”(图)](../pages/p7/1030344.md?t=03111244) 
-#### [神韵舞蹈演员巡演必备的7大物品！(图)](../pages/p7/1030369.md?t=03111244) 
-#### [惊蛰3/6降临 我们需要注意这些禁忌(图)](../pages/p7/1029894.md?t=03111244) 
-#### [人莫蹪于山 而蹪于垤(图)](../pages/p7/1030091.md?t=03111244) 
-#### [3/6为何要“祭白虎”与“打小人”？(图)](../pages/p7/1029405.md?t=03111244) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/p7-earlier.md)
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
