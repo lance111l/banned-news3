@@ -1,9 +1,20 @@
 #### [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-
-### 已转移至新页面 [中国新闻](H中国新闻.md?t=04042143) 
-
+#### [27岁上海男子离婚8次结婚9次 身家遭起底](../pages/soh5/710372.md?t=04050043) 
+#### [不寻常！媒体热炒张继科景甜事件 政法委出声 风头盖过艳星彭丹](../pages/soh5/710333.md?t=04050043) 
+#### [《人日》漏印“习近平”持续延烧  涉事编辑遭处罚 庹震成众矢之的](../pages/soh5/710258.md?t=04050043) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
+#### [再现少年失踪案！吉林两女孩出门玩耍 次日在松花江找到一具遗体](../pages/soh5/710279.md?t=04050043) 
+#### [靠国人消费拉动经济？车宏年：2023年中国房子 汽车 股票都卖不动了 ](../pages/soh5/710069.md?t=04050043) 
+#### [超恐怖！22岁亲历者揭 中国精神病院没有治疗只有残酷迫害 ](../pages/soh5/710036.md?t=04050043) 
+#### [中国房产形势严峻 13家房企巨亏超百亿  6大国有银行坏账攀升](../pages/soh5/710060.md?t=04050043) 
+#### [李强上任23天 英媒：释三个信号与三道难题 但最大挑战是它](../pages/soh5/710042.md?t=04050043) 
+#### [相貌福运随心变 善良会漂亮 凶恶定丑陋](../pages/soh5/710033.md?t=04050043) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [章天亮: 马英九湖南大学讲两岸同属中华民国 惜闻者寡 ](../pages/soh5/710030.md?t=04050043) 
+#### [王小洪掀起大清洗 习第一把火烧向谁？](../pages/soh5/709973.md?t=04050043) 
+#### [失业潮来袭  断农民工谋生路？ 专家：中共政权瓦解将从农村开始](../pages/soh5/709970.md?t=04050043) 
+#### [啥预兆？中共两省部级高官同日自杀 ](../pages/soh5/709946.md?t=04050043) 
+#### [《人日》少三字不惜成本回收 矢板明夫：文字狱重现江湖](../pages/soh5/709835.md?t=04050043) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh5-earlier.md)
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
