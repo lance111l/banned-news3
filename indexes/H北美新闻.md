@@ -1,9 +1,26 @@
 #### [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-
-### 已转移至新页面 [北美新闻](H北美新闻.md?t=06301543) 
-
+#### [美解密中共间谍气球调查结果 专家析美用意](../pages/soh6/734531.md?t=06301843) 
+#### [“只有他和我” 拜登自揭会见习近平次数多到令人惊讶](../pages/soh6/734468.md?t=06301843) 
+#### [蔡英文接见美众院军委会主席 美设“老虎工作组”加快军售](../pages/soh6/734171.md?t=06301843) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
+#### [川普特别宣布一项总统大选提案 中共党员悬了](../pages/soh6/734099.md?t=06301843) 
+#### [美中科技协议到期 美议员敦促：不要续约](../pages/soh6/734081.md?t=06301843) 
+#### [传耶伦七月访华 宋国诚：美国维持抗共的态势](../pages/soh6/733946.md?t=06301843) 
+#### [美驻UN前大使：共产中国是美国最大敌人](../pages/soh6/733865.md?t=06301843) 
+#### [神秘偷渡客激增 专家：拜登实施了“可怕的政策”](../pages/soh6/733862.md?t=06301843) 
+#### [白宫国安委柯比：乌反攻缓慢有客观原因](../pages/soh6/733856.md?t=06301843) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [美国会议员：美国公司必须停止与中共的AI合作](../pages/soh6/733832.md?t=06301843) 
+#### [白宫或对中国AI芯片出口实施新限制](../pages/soh6/733835.md?t=06301843) 
+#### [美国律师解答 退党是一件关乎能否成功移民的大事](../pages/soh6/733493.md?t=06301843) 
+#### [非法抵达美边境的中国公民数量暴增 前所未见](../pages/soh6/733538.md?t=06301843) 
+#### [人气不减！新民调：川普二次被诉 党内优势翻番](../pages/soh6/733547.md?t=06301843) 
+#### [美国及盟友开发“海底武器” 截断中共“电信丝绸之路”](../pages/soh6/733457.md?t=06301843) 
+#### [变性风波惹的祸：百威淡啤恐永久性失去25%的业务](../pages/soh6/733436.md?t=06301843) 
+#### [喜迎“七一退党日”纽约议员褒奖全球退党中心 贺四亿多中国人三退](../pages/soh6/733337.md?t=06301843) 
+#### [在共和党人大力支持下 川普或将沉冤得雪](../pages/soh6/733229.md?t=06301843) 
+#### [“跨性别”风波仍未平息 百威淡啤宣布增加投资](../pages/soh6/733190.md?t=06301843) 
+#### [“泰坦号”遇难执行长的危险思维 这“核潜舰”竟也搭载游戏手把](../pages/soh6/733067.md?t=06301843) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh6-earlier.md)
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 

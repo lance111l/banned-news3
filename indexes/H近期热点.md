@@ -1,9 +1,26 @@
 #### [法轮功真相](https://github.com/gfw-breaker/truth/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧二十周年报告](https://github.com/gfw-breaker/mh-reports/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp;[明慧期刊](https://github.com/gfw-breaker/mh-qikan) &nbsp;&nbsp;|&nbsp;&nbsp; [明慧海外之窗](https://github.com/gfw-breaker/mh-news/blob/master/README.md?t=0) &nbsp;&nbsp;|&nbsp;&nbsp; [神韵特别报道](https://github.com/gfw-breaker/mh-news/blob/master/shenyun.md?t=0)
-
-### 已转移至新页面 [近期热点](H近期热点.md?t=06301543) 
-
+#### [“只有他和我” 拜登自揭会见习近平次数多到令人惊讶](../pages/soh186/734468.md?t=06301843) 
+#### [江峰: 美国会成立老虎小组加速援台武器交付 海马斯如何阻止中共登台行动?](../pages/soh186/734357.md?t=06301843) 
+#### [章天亮: 美国智库报告 习近平痴迷于一个特殊爱好](../pages/soh186/734312.md?t=06301843) 
 #### 五毛举报越来越频繁，请网友们前往下载 [一键翻墙软件](https://github.com/gfw-breaker/ssr-accounts)，并将此项目推荐给亲友
+#### [神秘瓦格纳士兵遭起底  有内应？情报机构提前获知兵变 报告：俄极刑处死77名乌平民](../pages/soh186/734309.md?t=06301843) 
+#### [俄罗斯兵变后 习近平晋升两名上将  专家指他最担心的事](../pages/soh186/734252.md?t=06301843) 
+#### [美、爱议员团访台表坚定支持 中共急眼大小动作频出 反助美民意转向正式承认台湾](../pages/soh186/734231.md?t=06301843) 
+#### [川普特别宣布一项总统大选提案 中共党员悬了](../pages/soh186/734099.md?t=06301843) 
+#### [江峰: 调停叛乱另有隐密人 瓦格纳被俄军自废武功 中共亲俄口风大变](../pages/soh186/734063.md?t=06301843) 
+#### [章天亮: 普里戈津从兵变到缴枪 卢卡申科详述所有细节 ](../pages/soh186/734039.md?t=06301843) 
+#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
+#### [美台无视北京警告 蔡英文接见美众院军委会访团  美国会力促加快向台交付武器](../pages/soh186/733976.md?t=06301843) 
+#### [高级黑？李强被黄袍加身？海外再现“习下李上”](../pages/soh186/733892.md?t=06301843) 
+#### [最新战况：普京设陷阱？涉非法黄金交易遭美国制裁 北约加强攻防 空降白俄罗斯的普里戈津日子难挨](../pages/soh186/733913.md?t=06301843) 
+#### [普京、普里戈津用各自故事对决 事件变得更复杂 拜登发话 接下来会发生什么？](../pages/soh186/733814.md?t=06301843) 
+#### [江峰: 普京毁约定叛国 叛乱流产原因曝光 北约情报澄清传言 中共将正式弃俄?](../pages/soh186/733799.md?t=06301843) 
+#### [章天亮: 普京露面发表五分钟电视讲话 传普里戈津带兵入白俄](../pages/soh186/733727.md?t=06301843) 
+#### [疫情即时报：新冠新变种传染性暴增](../pages/soh186/733709.md?t=06301843) 
+#### [团中央高层大清洗前奏？ 习近平向新一届共青团提一要求](../pages/soh186/733667.md?t=06301843) 
+#### [见缝插针？习近平打“冲绳牌”挑敏感神经 对抗美日同盟](../pages/soh186/733595.md?t=06301843) 
+#### [最新战况：普京和普里戈津首度公开声明 瓦格纳将被解散 俄境内存安全隐患 普京不再连任总统？](../pages/soh186/733658.md?t=06301843) 
+#### [心惊胆颤 落井下石？瓦格纳兵变 北京罕见批评俄政局](../pages/soh186/733532.md?t=06301843) 
 
 ----
 #### [ >>> 更早内容 <<< ](../indexes/soh186-earlier.md)
-#### [《九评共产党》](https://github.com/begood0513/9ping.md/blob/master/README.md) &nbsp;|&nbsp; [《解体党文化》](../../../../jtdwh.md/blob/master/README.md)  &nbsp;|&nbsp; [《共产主义的终极目的》](../../../../gczydzjmd.md/blob/master/README.md) &nbsp;|&nbsp; [《魔鬼在统治我们的世界》](../../../../mgztzwmdsj.md/blob/master/README.md) 
